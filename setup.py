@@ -33,7 +33,7 @@ setup(
             'backgrounds/*/*',
         ]
     },
-    install_requires=['pillow', 'natsort'],
+    install_requires=['pillow', 'natsort', 'robohash'],
     extras_require={
         'web': ['tornado'],
     },
