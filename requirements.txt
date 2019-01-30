@@ -1,3 +1,5 @@
 pillow
 tornado
 natsort
+robohash
+robohash[web]
